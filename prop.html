@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>菜鸟教程(runoob.com)</title>
+    <meta charset="utf-8">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+    </script>
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                var $x = $("div");
+                $x.prop("color","FF0000");
+                $x.append("color 属性值为: " + $x.prop("color"));
+                $x.removeProp("color");
+                $x.append("<br>现在 color 属性值为: " + $x.prop("color"));
+            });
+        });
+    </script>
+</head>
+<body>
+
+<button>添加和删除属性</button>
+<br><br>
+<div></div>
+
+</body>
+</html>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="907fb144-4630-4f69-ac1c-d0c721080e73" name="Default Changelist" comment="jquery">
+      <change beforePath="$PROJECT_DIR$/addclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addmulticlass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aftertext.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animateChain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animateMulti.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animatePre.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animateQueue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animateRelative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animateStop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animateText.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animatecallback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animatenocallback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/append.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appendprepend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atrr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attrMulti.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attrcallback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chainnewline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customnotConflict.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/empty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fadein.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fadeout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fadeto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fadetoggle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/findAll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/focusEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hideBtn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hideClass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hideId.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoverEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerWidth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/innernotConflict.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/last.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leaveEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mouseDown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mouseUp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextAll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextUntil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/not.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notconflict.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outerWidth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/remove.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setAttr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setCss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setMulticss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settexthtmlval.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/siblings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/siblingsFilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slidedown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slidetoggle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slideup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texthtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texthtmlattrcallback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toggle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toggleclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/val.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widthHeight.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1itNGobWtUebeQizpcuX0KolQVJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webstorm\jquery\images" />
+      <recent name="E:\webstorm\jquery" />
+      <recent name="E:\webstorm\jquery\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="907fb144-4630-4f69-ac1c-d0c721080e73" name="Default Changelist" comment="" />
+      <created>1602722834342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602722834342</updated>
+      <workItem from="1602722835522" duration="12583000" />
+      <workItem from="1602747875919" duration="811000" />
+      <workItem from="1602829147591" duration="5414000" />
+    </task>
+    <task id="LOCAL-00001" summary="jquery">
+      <created>1602723857449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602723857449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jquery">
+      <created>1602728489884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602728489884</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jquery">
+      <created>1602728894854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602728894854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="jquery">
+      <created>1602729283987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602729283987</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jquery">
+      <created>1602730491763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602730491763</updated>
+    </task>
+    <task id="LOCAL-00006" summary="jquery">
+      <created>1602731400956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602731400956</updated>
+    </task>
+    <task id="LOCAL-00007" summary="jquery">
+      <created>1602732798624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602732798624</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jquery">
+      <created>1602733122180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602733122180</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jquery">
+      <created>1602740590314</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602740590314</updated>
+    </task>
+    <task id="LOCAL-00010" summary="jquery">
+      <created>1602741541648</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602741541648</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jquery" />
+    <option name="LAST_COMMIT_MESSAGE" value="jquery" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1230" y="407" width="420" height="317" key="Github.ShareDialog" timestamp="1602723376516">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1230" y="407" width="420" height="317" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602723376516" />
+    <state x="1311" y="232" key="Github.UntrackedFilesDialog" timestamp="1602723383871">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1311" y="232" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602723383871" />
+    <state x="857" y="176" key="SettingsEditor" timestamp="1602830818416">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="857" y="176" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602830818416" />
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1602741575095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602741575095" />
+    <state x="1096" y="247" key="run.anything.popup" timestamp="1602833409874">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1096" y="247" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602833409874" />
+  </component>
+</project>
